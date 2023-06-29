@@ -1,0 +1,12 @@
+.bg{
+    background-color: greenyellow;
+    opacity: 50;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: chartreuse;
+    
+}
